@@ -16,6 +16,8 @@ int main() {
 
 	castA();
 
+	printfLn();
+
 	//ÈÃCÓïÑÔĞüÍ£
 	system("pause");
 
